@@ -1,0 +1,11 @@
+quality
+faulty
+damage
+damaged
+replacement
+repair
+repairs
+repaired
+product
+service
+trader

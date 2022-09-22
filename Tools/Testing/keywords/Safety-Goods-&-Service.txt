@@ -1,0 +1,7 @@
+safety
+safe
+unsafe
+protection
+health
+healthy
+unhealthy

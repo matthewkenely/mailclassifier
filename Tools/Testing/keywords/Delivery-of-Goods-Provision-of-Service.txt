@@ -1,0 +1,11 @@
+delivery
+delivered
+undelivered
+deliveries
+receive
+deposit
+answer
+answering
+answered
+refuse
+refusing
